@@ -35,7 +35,7 @@ Demo
 To see a demo, use the test project included in the repo and perform the 
 following steps (using virtualenv is optional)::
 
-   git clone https://github.com/gavinwahl/django-u2f
+   git clone https://github.com/d4rker/django-u2f
    cd django-u2f
    virtualenv -p python3 venv
    source venv/bin/activate
